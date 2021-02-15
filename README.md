@@ -1,3 +1,5 @@
+![](https://hit.yhype.me/github/profile?user_id=16060559)
+
 <p align="center">
   <br />
   <a href="https://www.linkedin.com/in/enzo-innocenzi/">
@@ -24,10 +26,3 @@
   <br />
   and writing stuff in <b>TypeScript</b> as well.
 </div>
-
-<p align="center">
-  <br />
-  <sub>🌸</sub>
-</p>
-
-![](https://hit.yhype.me/github/profile?user_id=16060559)
