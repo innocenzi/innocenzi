@@ -14,8 +14,6 @@
   </a>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=16060559)
-
 <div align="center">
   I am a full-stack PHP developer, from France.
   <br />
@@ -24,3 +22,5 @@
   <br />
   and writing stuff in <b>TypeScript</b> as well.
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=16060559)
