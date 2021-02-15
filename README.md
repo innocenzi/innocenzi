@@ -1,15 +1,5 @@
 <p align="center">
   <br />
-  <a href="https://innocenzi.dev">
-    <img width="70" src="./.github/profile.png" alt="Me UwU">
-  </a>
-  <br />
-</p>
-
-<h2 align="center">Enzo Innocenzi</h2>
-
-<p align="center">
-  <br />
   <a href="https://www.linkedin.com/in/enzo-innocenzi/">
     <img alt="Status" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square">
   </a>
