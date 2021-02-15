@@ -1,5 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=16060559)
-
 <p align="center">
   <br />
   <a href="https://www.linkedin.com/in/enzo-innocenzi/">
@@ -16,7 +14,7 @@
   </a>
 </p>
 
-<br />
+![](https://hit.yhype.me/github/profile?user_id=16060559)
 
 <div align="center">
   I am a full-stack PHP developer, from France.
