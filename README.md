@@ -1,7 +1,10 @@
-<div align="center">
-  I am a full-stack PHP developer from France.
-  <br />
-  My main stack is <b>Laravel</b>, <b>Vue</b>, <b>Tailwind CSS</b>, <b>Inertia</b> and <b>Vite</b>. I'm a <b>perfectionist</b>, and I value <b>developer experience</b> a lot.
-</div>
+<p align="center">
+  <samp>
+    <strong>Clean code</strong> and <strong>developer experience</strong> enthusiast. Working on <a href="https://hybridly.dev">Hybridly</a>.<br/>
+    <a href="https://innocenzi.dev">Website</a> •
+    <a href="https://twitter.com/enzoinnocenzi">Twitter</a> •
+    <a href="https://bsky.app/profile/innocenzi.dev">Bluesky</a>
+  </samp>
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=16060559)
