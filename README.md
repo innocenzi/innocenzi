@@ -1,9 +1,9 @@
 <p align="center">
   <samp>
-    <strong>Clean code</strong> and <strong>developer experience</strong> enthusiast. Working on <a href="https://hybridly.dev">Hybridly</a>.<br/>
+    <strong>Clean code</strong> and <strong>developer experience</strong> enthusiast.<br/>
     <a href="https://innocenzi.dev">Website</a> •
-    <a href="https://twitter.com/enzoinnocenzi">Twitter</a> •
-    <a href="https://bsky.app/profile/innocenzi.dev">Bluesky</a>
+    <a href="https://bsky.app/profile/innocenzi.dev">Bluesky</a> •
+    <a href="https://twitter.com/enzoinnocenzi">Twitter</a>
   </samp>
 </p>
 
