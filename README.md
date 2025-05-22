@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <strong>Clean code</strong> and <strong>developer experience</strong> enthusiast.<br/>
+    Developer experience enthusiast. Code is art.<br/> 
     <a href="https://innocenzi.dev">Website</a> •
     <a href="https://bsky.app/profile/innocenzi.dev">Bluesky</a> •
     <a href="https://twitter.com/enzoinnocenzi">Twitter</a>
